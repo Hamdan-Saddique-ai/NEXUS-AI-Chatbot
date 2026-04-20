@@ -14,23 +14,6 @@ It runs completely on your machine — no API, no internet required.
 - 🎨 Modern animated UI (glassmorphism design)
 - ⚡ Fast & lightweight (GGUF models)
 
----
-
-## 🏗️ Tech Stack
-
-### Backend
-- Python
-- FastAPI
-- LangChain
-- llama-cpp-python
-
-### Frontend
-- React (Vite)
-- Framer Motion (animations)
-- Axios
-
-### AI Model
-- Mistral 7B (GGUF format)
 
 ---
 
