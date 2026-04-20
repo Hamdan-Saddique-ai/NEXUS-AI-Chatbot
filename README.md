@@ -19,6 +19,7 @@ It runs completely on your machine — no API, no internet required.
 
 ## 📁 Screen Short
 
+<img width="1364" height="605" alt="Image" src="https://github.com/user-attachments/assets/bd7a6e91-d83f-44d4-8561-aa7c63b2e55a" />
 
 
 ## 🧪 Usage
