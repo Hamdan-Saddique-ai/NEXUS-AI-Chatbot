@@ -17,7 +17,7 @@ It runs completely on your machine — no API, no internet required.
 
 ---
 
-## 📁 Project Structure
+## 📁 Screen Short
 
 
 local-llm-chat/
