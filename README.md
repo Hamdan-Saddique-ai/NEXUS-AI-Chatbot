@@ -20,23 +20,6 @@ It runs completely on your machine — no API, no internet required.
 ## 📁 Screen Short
 
 
-local-llm-chat/
-│
-├── backend/
-│ ├── main.py
-│ ├── llm.py
-│ ├── pdf_utils.py
-│ ├── models/
-│ │ └── mistral-7b.gguf
-│
-├── frontend/
-│ ├── src/
-│ ├── index.html
-│
-└── README.md
-
-
----
 
 ## ⚙️ Installation & Setup
 
